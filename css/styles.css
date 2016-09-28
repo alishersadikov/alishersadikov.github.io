@@ -4,6 +4,10 @@
   margin-left: 200px;
 }
 
+body {
+  background-color: teal;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
