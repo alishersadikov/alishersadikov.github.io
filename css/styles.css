@@ -1,7 +1,10 @@
 #nikola {
-  background-color: green;
   height: 300px;
   margin-left: 200px;
+}
+
+#odometer {
+  height: 300px;
 }
 
 ul {
@@ -22,4 +25,8 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+body { 
+  background-color: teal; 
 }
